@@ -3,7 +3,6 @@
 Repositório oficial do projeto final do curso de Inteligência Artificial organizado por PertaLabs.  
 **Grupo**: Análise da violência contra a população LGBTQIA+ utilizando dados do Grupo Gay da Bahia (GGB)
 
-🔗 **Repositório no GitHub**: [GriseldaJusto/Analise---violencia-contra-lgbtqia](https://github.com/GriseldaJusto/Analise---violencia-contra-lgbtqia)  
 📄 **Fonte dos dados**: [Base dos Dados - Relatório de Violência LGBTQIA+ (GGB)](https://basedosdados.org/)
 
 ---
